@@ -214,7 +214,7 @@
 			<artifactId>serenity-maven-plugin</artifactId>
 			<version>1.8.3</version>
 		</dependency>	
-		#net.serenity-bdd.maven.plugins:serenity-maven-plugin:1.8.3
+		<!--net.serenity-bdd.maven.plugins:serenity-maven-plugin:1.8.3 -->
     </dependencies>
 
     <modules>
